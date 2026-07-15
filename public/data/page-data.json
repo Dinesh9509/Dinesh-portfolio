@@ -1,0 +1,172 @@
+{
+  "contactBar": {
+    "contactItems": [
+      {
+        "type": "email",
+        "label": "dyadav5496@gmail.com",
+        "icon": "/images/icon/mail-icon.svg",
+        "link": "mailto:dyadav5496@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "+91 95 096 096 04",
+        "icon": "/images/icon/call-icon.svg",
+        "link": "tel:+919509609604"
+      },
+      {
+        "type": "website",
+        "label": "dineshyadav.vercel.app",
+        "icon": "/images/icon/web-icon.svg",
+        "link": "https://dineshyadav.vercel.app"
+      }
+    ],
+    "socialItems": [
+      {
+        "platform": "dribbble",
+        "icon": "/images/icon/dribble-icon.svg",
+        "link": "https://dribbble.com"
+      },
+      {
+        "platform": "linkedin",
+        "icon": "/images/icon/linkedin-icon.svg",
+        "link": "https://linkedin.com"
+      },
+      {
+        "platform": "facebook",
+        "icon": "/images/icon/facebook-icon.svg",
+        "link": "https://facebook.com"
+      }
+    ]
+  },
+  "educationData": {
+    "education": [
+      {
+        "title": "Bachelor of Arts (2014–2018)",
+        "subtitle": "Rajasthan University",
+        "description": "Completed my bachelor's degree from Rajasthan University, building a strong academic foundation while developing problem-solving and communication skills."
+      },
+      {
+        "title": "Diploma in Web Design & Development (2019)",
+        "subtitle": "GitSquare Watika",
+        "description": "Gained practical knowledge of web design principles, HTML, CSS, JavaScript, responsive design, and frontend development."
+      }
+    ],
+    "uxDesignSkills": [
+      "User Experience (UX) Design",
+      "User Interface (UI) Design",
+      "User Research",
+      "User Journey Mapping",
+      "Wireframing",
+      "Prototyping",
+      "Usability Testing",
+      "Design Systems",
+      "Interaction Design",
+      "Responsive Design",
+      "Information Architecture"
+    ],
+    "designTools": [
+      {
+        "name": "Figma",
+        "icon": "/images/home/education-skill/figma-icon.svg",
+        "rating": 5
+      },
+      {
+        "name": "Adobe XD",
+        "icon": "/images/home/education-skill/adobe-icon.svg",
+        "rating": 4
+      },
+      {
+        "name": "Photoshop",
+        "icon": "/images/home/education-skill/photoshop-icon.svg",
+        "rating": 4
+      },
+      {
+        "name": "Illustrator",
+        "icon": "/images/home/education-skill/adobe-illustrator-icon.webp",
+        "rating": 4
+      },
+      {
+        "name": "Framer",
+        "icon": "/images/home/education-skill/framer-icon.svg",
+        "rating": 3
+      }
+    ],
+    "frontendSkills": [
+      {
+        "name": "HTML5",
+        "icon": "/images/home/education-skill/Html5.png",
+        "rating": 5
+      },
+      {
+        "name": "CSS3",
+        "icon": "/images/home/education-skill/Css3.png",
+        "rating": 4
+      },
+      {
+        "name": "Tailwind CSS",
+        "icon": "/images/home/education-skill/Tailwindcss.png",
+        "rating": 5
+      },
+      {
+        "name": "JavaScript",
+        "icon": "/images/home/education-skill/javascript.webp",
+        "rating": 4
+      },
+      {
+        "name": "React.js",
+        "icon": "/images/home/education-skill/Reactlogo.png",
+        "rating": 4
+      }
+    ],
+    "developmentTools": [
+      {
+        "name": "VS Code",
+        "icon": "/images/home/education-skill/visual-studio-code-icon.webp",
+        "rating": 5
+      },
+      {
+        "name": "Git",
+        "icon": "/images/home/education-skill/giticon.png",
+        "rating": 4
+      },
+      {
+        "name": "Sublime Text",
+        "icon": "/images/home/education-skill/Sublimeicon.png",
+        "rating": 4
+      },
+      {
+        "name": "Notepad++",
+        "icon": "/images/home/education-skill/Notepad++_Logo.png",
+        "rating": 4
+      }
+    ]
+  },
+  "contactLinks": {
+    "socialLinks": [
+      {
+        "title": "Dribble",
+        "href": "/"
+      },
+      {
+        "title": "Facebook",
+        "href": "/"
+      },
+      {
+        "title": "LinkedIn",
+        "href": "/"
+      }
+    ],
+    "contactInfo": [
+      {
+        "type": "email",
+        "label": "dyadav5496@gmail.com",
+        "link": "mailto:dyadav5496@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "+91 95 096 096 04",
+        "link": "tel:+919509609604"
+      }
+    ]
+  }
+}
